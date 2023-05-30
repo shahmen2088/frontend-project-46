@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shahmen2088/frontend-project-46/issues"
   },
-  "homepage": "https://github.com/shahmen2088/frontend-project-46#readme"
+  "homepage": "https://github.com/shahmen2088/frontend-project-46#readme",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
 }
