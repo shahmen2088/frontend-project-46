@@ -22,5 +22,8 @@
   "homepage": "https://github.com/shahmen2088/frontend-project-46#readme",
   "devDependencies": {
     "eslint": "^8.41.0"
+  },
+  "dependencies": {
+    "commander": "^10.0.1"
   }
 }
